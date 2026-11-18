@@ -21,6 +21,12 @@ vless://431732a8-67ee-480b-a5a6-9b38e2e9810f@87.228.101.126:443?type=grpc&securi
 
 vless://431732a8-67ee-480b-a5a6-9b38e2e9810f@31.129.42.84:443?type=grpc&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=xDF9_L0Mgyxf6e51shJKCBjNw33qXAqT3AQSHYheP20&serviceName=api&mode=gun#%F0%9F%87%AB%F0%9F%87%AELTEv11.0+MINI+BLACK%E2%9A%AB
 
+vless://431732a8-67ee-0001-a5a6-9b38e2e9810f@31.129.42.84:443?type=grpc&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=xDF9_L0Mgyxf6e51shJKCBjNw33qXAqT3AQSHYheP20&serviceName=api&mode=gun#%F0%9F%87%A9%F0%9F%87%AALTEv11.1+MINI+BLACK%E2%9A%AB
+
+vless://431732a8-67ee-0001-a5a6-9b38e2e9810f@87.228.101.126:443?type=xhttp&security=reality&fp=qq&sni=smartcaptcha.yandexcloud.net&pbk=5RmtNRw_daWLasT6xff_1-UIFaGDQzXutXc1AuBe5yQ&sid=461c5419005d5ef6&path=%2Fstatic&mode=auto#%F0%9F%87%A9%F0%9F%87%AALTEv11.2+MINI+BLACK%E2%9A%AB
+
+vless://431732a8-67ee-0001-a5a6-9b38e2e9810f@87.228.101.126:443?type=grpc&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=xDF9_L0Mgyxf6e51shJKCBjNw33qXAqT3AQSHYheP20&serviceName=api&mode=gun#%F0%9F%87%A9%F0%9F%87%AALTEv11.3+MINI+BLACK%E2%9A%AB
+
 trojan://cae2f113612b4f3c8928654cc52768e9@pl-cdn.fireflycloud.shop:443?type=grpc&security=tls&fp=firefox&sni=pl-cdn.fireflycloud.shop&serviceName=/10779/8q9WnvaSeb&authority=pl-cdn.fireflycloud.shop&mode=gun&alpn=h2, http/1.1#%F0%9F%87%B5%F0%9F%87%B1Poland+Warszawa+MINI+BLACK%E2%9A%AB
 
 vless://59a80dcb-87ab-4a04-a62b-871f43d8ca75@pl-cdn.fireflycloud.shop:443?type=ws&security=tls&fp=firefox&sni=pl-cdn.fireflycloud.shop&path=%2F35722%2FyMYktOkbhN&host=pl-cdn.fireflycloud.shop&alpn=h2, http/1.1#%F0%9F%87%B5%F0%9F%87%B1Poland+Warszawa%E2%84%962+MINI+BLACK%E2%9A%AB
