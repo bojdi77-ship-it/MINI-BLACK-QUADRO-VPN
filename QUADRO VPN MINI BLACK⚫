@@ -1,31 +1,11 @@
 #profile-title:QUADRO VPN: Тариф MINI BLACK⚫
 #profile-update-interval: 24/48/72HOURSUPDATE
 
-vless://65b969ad-f9f4-4deb-a7b2-c393e549e75d@185.178.208.167:443?type=ws&security=tls&fp=firefox&sni=185.178.208.167&path=%2Fshop%2Fqueue%2Fevents&host=dmjie.com.&pcs=c0e5e374c107df953a89ffe23189e52be7ebaf1df0fc1f9713e68d7b4eef86e4&alpn=http/1.1#%F0%9F%87%A9%F0%9F%87%AALTEv10.0+MINI+BLACK%E2%9A%AB
+vless://09e4ccf4-c11b-40e2-931d-939f731dddd0@87.242.95.126:3443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=nodesxneo3o402s.space&fp=firefox&pbk=ByGOlI1k6SAe7qiQa349uSPyzeqEnPc7zOGBRp5GngY&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%87%B3%F0%9F%87%B1LTEv15.0%20MINI%20BLACK%E2%9A%AB
 
-vless://431732a8-67ee-0001-a5a6-9b38e2e9810f@31.129.42.84:443?type=xhttp&security=reality&fp=qq&sni=smartcaptcha.yandexcloud.net&pbk=7EbUYtbV07niZdH0MRDrj7nEeJplaS1whdo13f2Yd0I&sid=c295fa9322fddc38&path=%2Fstatic&mode=auto#%F0%9F%87%A9%F0%9F%87%AALTEv10.1+MINI+BLACK%E2%9A%AB
+vless://09e4ccf4-c11b-40e2-931d-939f731dddd0@gam.kot-game.club:10443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=game.kot-game.club&alpn=h2%2C%20http%2F1.1&fp=firefox&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%87%B7%F0%9F%87%BA%20L%D0%A2%D0%95v15.1%20MINI%20BLACK%E2%9A%AB
 
-vless://431732a8-67ee-0001-a5a6-9b38e2e9810f@87.228.101.126:443?type=xhttp&security=reality&fp=qq&sni=smartcaptcha.yandexcloud.net&pbk=5RmtNRw_daWLasT6xff_1-UIFaGDQzXutXc1AuBe5yQ&sid=461c5419005d5ef6&path=%2Fstatic&mode=auto#%F0%9F%87%A9%F0%9F%87%AALTEv10.2+MINI+BLACK%E2%9A%AB
-
-vless://431732a8-67ee-0001-a5a6-9b38e2e9810f@31.129.42.84:443?type=grpc&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=xDF9_L0Mgyxf6e51shJKCBjNw33qXAqT3AQSHYheP20&serviceName=api&mode=gun#%F0%9F%87%A9%F0%9F%87%AALTEv10.4+MINI+BLACK%E2%9A%AB
-
-vless://431732a8-67ee-0001-a5a6-9b38e2e9810f@87.228.101.126:443?type=grpc&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=xDF9_L0Mgyxf6e51shJKCBjNw33qXAqT3AQSHYheP20&serviceName=api&mode=gun#%F0%9F%87%A9%F0%9F%87%AALTEv10.5+MINI+BLACK%E2%9A%AB
-
-vless://4cabcd59-a405-4c00-96f5-03507e1e28fa@cadrin.wtf:443?type=grpc&security=tls&fp=edge&sni=cadrin.wtf&serviceName=cache.sync.v1&mode=gun&alpn=h2#%F0%9F%87%A9%F0%9F%87%AALTEv10.6+MIMI+BLACK%E2%9A%AB
-
-vless://65b969ad-f9f4-4deb-a7b2-c393e549e75d@87.228.32.195:2087?type=xhttp&security=reality&fp=firefox&sni=www.rutube.ru&pbk=1ybyzbrhLRTR6tVC9w3IrNSuAPQG7KUJpzfUztUnYTc&sid=98b20d664b0e4933&path=%2F&mode=auto&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%220%22%2C%22maxConnections%22%3A2%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22100-200%22%2C%22hMaxReusableSecs%22%3A%22300-600%22%7D%7D&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22length%22%3A%2210-20%22%2C%22packets%22%3A%22tlshello%22%2C%22interval%22%3A%2210-20%22%7D%7D%5D%7D#%F0%9F%87%A9%F0%9F%87%AALTEv10.7+MINI+BLACK%E2%9A%AB
-
-vless://431732a8-67ee-480b-a5a6-9b38e2e9810f@31.129.42.84:443?type=xhttp&security=reality&fp=qq&sni=smartcaptcha.yandexcloud.net&pbk=7EbUYtbV07niZdH0MRDrj7nEeJplaS1whdo13f2Yd0I&sid=c295fa9322fddc38&path=%2Fstatic&mode=auto#%F0%9F%87%AB%F0%9F%87%AELTEv10.8+MINI+BLACK%E2%9A%AB
-
-vless://431732a8-67ee-480b-a5a6-9b38e2e9810f@87.228.101.126:443?type=grpc&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=xDF9_L0Mgyxf6e51shJKCBjNw33qXAqT3AQSHYheP20&serviceName=api&mode=gun#%F0%9F%87%AB%F0%9F%87%AELTEv10.9+MINI+BLACK%E2%9A%AB
-
-vless://431732a8-67ee-480b-a5a6-9b38e2e9810f@31.129.42.84:443?type=grpc&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=xDF9_L0Mgyxf6e51shJKCBjNw33qXAqT3AQSHYheP20&serviceName=api&mode=gun#%F0%9F%87%AB%F0%9F%87%AELTEv11.0+MINI+BLACK%E2%9A%AB
-
-vless://431732a8-67ee-0001-a5a6-9b38e2e9810f@31.129.42.84:443?type=grpc&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=xDF9_L0Mgyxf6e51shJKCBjNw33qXAqT3AQSHYheP20&serviceName=api&mode=gun#%F0%9F%87%A9%F0%9F%87%AALTEv11.1+MINI+BLACK%E2%9A%AB
-
-vless://431732a8-67ee-0001-a5a6-9b38e2e9810f@87.228.101.126:443?type=xhttp&security=reality&fp=qq&sni=smartcaptcha.yandexcloud.net&pbk=5RmtNRw_daWLasT6xff_1-UIFaGDQzXutXc1AuBe5yQ&sid=461c5419005d5ef6&path=%2Fstatic&mode=auto#%F0%9F%87%A9%F0%9F%87%AALTEv11.2+MINI+BLACK%E2%9A%AB
-
-vless://431732a8-67ee-0001-a5a6-9b38e2e9810f@87.228.101.126:443?type=grpc&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=xDF9_L0Mgyxf6e51shJKCBjNw33qXAqT3AQSHYheP20&serviceName=api&mode=gun#%F0%9F%87%A9%F0%9F%87%AALTEv11.3+MINI+BLACK%E2%9A%AB
+vless://09e4ccf4-c11b-40e2-931d-939f731dddd0@cloud.kot-game.club:7443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=clne-edge.cloud.kot-game.club&alpn=h2%2C%20http%2F1.1&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%87%B3%F0%9F%87%B1LTEv15.2%20MINI%20BLACK%E2%9A%AB
 
 trojan://cae2f113612b4f3c8928654cc52768e9@pl-cdn.fireflycloud.shop:443?type=grpc&security=tls&fp=firefox&sni=pl-cdn.fireflycloud.shop&serviceName=/10779/8q9WnvaSeb&authority=pl-cdn.fireflycloud.shop&mode=gun&alpn=h2, http/1.1#%F0%9F%87%B5%F0%9F%87%B1Poland+Warszawa+MINI+BLACK%E2%9A%AB
 
