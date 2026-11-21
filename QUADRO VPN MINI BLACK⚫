@@ -31,26 +31,6 @@ trojan://cae2f113612b4f3c8928654cc52768e9@pl-cdn.fireflycloud.shop:443?type=grpc
 
 vless://59a80dcb-87ab-4a04-a62b-871f43d8ca75@pl-cdn.fireflycloud.shop:443?type=ws&security=tls&fp=firefox&sni=pl-cdn.fireflycloud.shop&path=%2F35722%2FyMYktOkbhN&host=pl-cdn.fireflycloud.shop&alpn=h2, http/1.1#%F0%9F%87%B5%F0%9F%87%B1Poland+Warszawa%E2%84%962+MINI+BLACK%E2%9A%AB
 
-vless://fd678fe7-d708-438a-995a-c2a0c2eb44d4@13.143.164.76:47815?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=assets.greyhavenstatic.com&pbk=7DoebQV1nIIVDTOGtdhyjVr7RWT79Mi9aFqXIY8OzUY&sid=8f2571eff71798d9&spx=%2F#%F0%9F%87%AB%F0%9F%87%AEFinland+Helsinki+MINI+BLACK%E2%9A%AB
-
-vless://fd678fe7-d708-438a-995a-c2a0c2eb44d4@13.143.164.73:47815?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=static.greyhavenstatic.com&pbk=YAFmGqVAGJk6UnqI_ytuloWICxJdlwbT4tXzX69Ubl4&sid=8f2571eff71798d9&spx=%2F#%F0%9F%87%AB%F0%9F%87%AEFinland+Helsinki%E2%84%962+MINI+BLACK%E2%9A%AB
-
-vless://431732a8-67ee-0001-a5a6-9b38e2e9810f@pl-bridge-in-1.netvpslink.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=pl-bridge-in-1.netvpslink.ru&pbk=7McMHrhtq631t39i6TRE_3n_0K4XgJT97fSbfe5Deyg&sid=214c0dde7d47fbce#%F0%9F%87%B9%F0%9F%87%B7Turkey+Istanbul+MINI+BLACK%E2%9A%AB
-
-vless://431732a8-67ee-480b-a5a6-9b38e2e9810f@jp.netvpslink.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=jp.netvpslink.ru&pbk=LKUfaY2lXCEJOhz0lNq5aXvZ0D2iLgdCpAzVkg0aBnA&sid=36bf17b9dfd80798#%F0%9F%87%AF%F0%9F%87%B5Japan+Tokyo+MINI+BLACK%E2%9A%AB
-
-vless://431732a8-67ee-480b-a5a6-9b38e2e9810f@jp-2.netvpslink.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=jp-2.netvpslink.ru&pbk=wlMywfmWU7QNO_gvlM06ZiNSiwK78Pfvr0QmqHIU9wk&sid=36bf17b9dfd80798#%F0%9F%87%AF%F0%9F%87%B5Japan+Tokyo%E2%84%962+MINI+BLACK%E2%9A%AB
-
-vless://431732a8-67ee-0002-a5a6-9b38e2e9810f@pl-bridge-in-1.netvpslink.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=pl-bridge-in-1.netvpslink.ru&pbk=7McMHrhtq631t39i6TRE_3n_0K4XgJT97fSbfe5Deyg&sid=214c0dde7d47fbce#%F0%9F%87%AE%F0%9F%87%B3India+Noida+MINI+BLACK%E2%9A%AB
-
-vless://9c623ae4-dcfa-45ce-9d94-4c18ba621cf2@200.102.183.130:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=jade-lantern.cdn.cachefleet.com&pbk=MFRt2q-ega_-C2eQ9bGnzFAY9olZzLXmx428zQjK2Tw&sid=1a7206f00a669015#%F0%9F%87%B8%F0%9F%87%ACSingapore+%28capital%29+MINI+BLACK%E2%9A%AB
-
-vless://9c623ae4-dcfa-45ce-9d94-4c18ba621cf2@200.102.183.152:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=cedar-tide.cdn.cachefleet.com&pbk=sp_KKjJjc7cyVd8jkaPNfRtB9UxyZT6CfF62uYqcMlI&sid=69828f96b0fcc801#%F0%9F%87%B0%F0%9F%87%B7South+Korea+Incheon+MINI+BLACK%E2%9A%AB
-
-vless://5c09e56b-f97f-4360-8f01-eb4d39202095@ee.puflino.com:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=ee-nf.reddotcorp.org&pbk=ApMfbcEyBOve6DxXoBNVu3bCCzQ7XCEYB4ummsDtTBE&sid=661766b2bcef440a#%F0%9F%87%AA%F0%9F%87%AAEstonia+Tallinn+MINI+BLACK%E2%9A%AB
-
-hysteria2://9c623ae4-dcfa-45ce-9d94-4c18ba621cf2@187.55.160.2:443?sni=88evieqs50.cdn.cachefleet.com&alpn=h3&up=150&down=80#%F0%9F%87%AA%F0%9F%87%BAAUTO+WIFIv1.5
-
 hysteria2://09e4ccf4-c11b-40e2-931d-939f731dddd0@ne.greatecloud.com:443?sni=ne.greatecloud.com&alpn=h3&up=150&down=80#%F0%9F%87%B3%F0%9F%87%B1Netherlands+FAST+MINI+BLACK%E2%9A%AB
 
 hysteria2://09e4ccf4-c11b-40e2-931d-939f731dddd0@deb.greatecloud.com:443?sni=deb.greatecloud.com&alpn=h3&up=150&down=80#%F0%9F%87%A9%F0%9F%87%AAGermany+FAST+MINI+BLACK%E2%9A%AB
@@ -59,6 +39,8 @@ hysteria2://09e4ccf4-c11b-40e2-931d-939f731dddd0@fl.greatecloud.com:443?sni=fl.g
 
 hysteria2://09e4ccf4-c11b-40e2-931d-939f731dddd0@pl.greatecloud.com:443?sni=pl.greatecloud.com&alpn=h3&up=150&down=80#%F0%9F%87%B5%F0%9F%87%B1Poland+FAST+MINI+BLACK%E2%9A%AB
 
-hysteria2://09e4ccf4-c11b-40e2-931d-939f731dddd0@edge-01294.greatecloud.com:443?sni=lat.greatecloud.com&alpn=h3&up=150&down=80#%F0%9F%87%B1%F0%9F%87%BBLatvija+FAST+MINI+BLACK%E2%9A%AB
+vless://b7dc3695-5b91-4fb7-b1f1-e93e4bf20c44@144.31.232.69:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=144.31.232.69&alpn=http%2F1.1&fp=chrome&pcs=b1c818ba0b0235ed0dcee67922385807c8693ed0c05c12279c1e23a0a6dad64e&pcn=false&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7Brutain%20London%20MINI%20BLACK%E2%9A%AB
 
-hysteria2://09e4ccf4-c11b-40e2-931d-939f731dddd0@edge-01294.greatecloud.com:443?sni=us.greatecloud.com&alpn=h3&up=150&down=80#%F0%9F%87%BA%F0%9F%87%B8USA+FAST+MINI+BLACK%E2%9A%AB
+hysteria2://9a9f167d-b461-466f-be50-f0ffd598a6f8@germanyafterpool.fun:443?security=tls&fm=%7B%7D&sni=germanyafterpool.fun#%F0%9F%87%AE%F0%9F%87%B3India%20Deli%20MINI%20BLACK%E2%9A%AB
+
+vless://52d0c9b1-80aa-4b20-bcb1-849991560498@yt.vmagnum.win:443?encryption=none&security=tls&sni=52d0c9b1.ferrin.uk&alpn=h2&fp=firefox&type=xhttp&mode=stream-one&path=%2Ftr&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A3.0%2C%22hMaxReusableSecs%22%3A%221140-1260%22%7D%7D#%F0%9F%87%B9%F0%9F%87%B7Turkey%20Istanbul%20MINI%20BLACK%E2%9A%AB
